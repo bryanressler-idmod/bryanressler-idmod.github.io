@@ -1,0 +1,20 @@
+[
+  {
+    "id": "allinsets",
+    "name": "All Insets",
+    "repo": "https://github.com/InstituteforDiseaseModeling/mc-allinsets",
+    "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.10/index.html"
+  },
+  {
+    "id": "binnedreport",
+    "name": "Binned Report",
+    "repo": "https://github.com/InstituteforDiseaseModeling/mc-binnedreport",
+    "url": "https://comps.idmod.org/vis/BinnedReport/1.0.0-build.4/index.html"
+  },
+  {
+    "id": "malariainterventions",
+    "name": "All Insets",
+    "repo": "https://github.com/InstituteforDiseaseModeling/malaria-interventions",
+    "url": "https://comps.idmod.org/vis/MalariaInterventions/1.0.0-build.4/interventions.html"
+  }
+]
