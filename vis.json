@@ -3,18 +3,24 @@
     "id": "allinsets",
     "name": "All Insets",
     "repo": "https://github.com/InstituteforDiseaseModeling/mc-allinsets",
-    "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.10/index.html"
+    "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.10/#/"
   },
   {
     "id": "binnedreport",
     "name": "Binned Report",
     "repo": "https://github.com/InstituteforDiseaseModeling/mc-binnedreport",
-    "url": "https://comps.idmod.org/vis/BinnedReport/1.0.0-build.4/index.html"
+    "url": "https://comps.idmod.org/vis/BinnedReport/1.0.0-build.4/#/"
   },
   {
     "id": "malariainterventions",
-    "name": "All Insets",
-    "repo": "https://github.com/InstituteforDiseaseModeling/malaria-interventions",
+    "name": "Malaria Interventions",
+    "repo": "https://github.com/InstituteforDiseaseModeling/mc-malaria-interventions",
     "url": "https://comps.idmod.org/vis/MalariaInterventions/1.0.0-build.6/interventions.html"
+  },
+  {
+    "id": "propertyreporttb",
+    "name": "PropertyReportTB",
+    "repo": "https://github.com/InstituteforDiseaseModeling/mc-propertyreporttb",
+    "url": "https://comps.idmod.org/vis/PropertyReportTB/1.0.0-build.1/#/"
   }
 ]
