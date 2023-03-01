@@ -7,8 +7,8 @@
     "PropertyReportTB": { "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.0/#/" }
   },
 	"diseases": {
-    "generic": [ "AllInsets", "BinnedReport"],
-    "malaria": [ "MalariaInterventions", "MalariaSummaryReport"],
+    "generic": [ "AllInsets", "BinnedReport" ],
+    "malaria": [ "MalariaInterventions", "MalariaSummaryReport" ],
     "tb": [ "PropertyReportTB" ]
 	}
 }
