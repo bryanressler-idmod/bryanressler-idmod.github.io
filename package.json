@@ -1,0 +1,27 @@
+{
+  "name": "bryanressler-idmod.github.io",
+  "version": "1.0.0",
+  "description": "Github pages for bryanressler-idmod",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanressler-idmod/bryanressler-idmod.github.io.git"
+  },
+  "keywords": [
+    "idm",
+    "idmtools",
+    "comps",
+    "microcomps",
+    "emod",
+    "emodpy"
+  ],
+  "author": "Bryan K. Ressler (bryan.ressler@gatesfoundation.org)",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/bryanressler-idmod/bryanressler-idmod.github.io/issues"
+  },
+  "homepage": "https://github.com/bryanressler-idmod/bryanressler-idmod.github.io#readme"
+}
