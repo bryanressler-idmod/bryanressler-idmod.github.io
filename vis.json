@@ -1,14 +1,32 @@
 {
   "sites": {
-    "AllInsets": { "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.15/#/" },
-    "BinnedReport": { "url": "https://comps.idmod.org/vis/BinnedReport/1.0.0-build.4/#/" },
-    "MalariaInterventions": { "url": "https://comps.idmod.org/vis/MalariaInterventions/1.0.0-build.6/interventions.html" },
-    "MalariaSummaryReport": { "url": "https://comps.idmod.org/vis/MalariaSummaryReport/0.1.0-build.1/#/" },
-    "PropertyReportTB": { "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.0/#/" }
+    "AllInsets": {
+      "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.15/#/"
+    },
+    "BinnedReport": {
+      "url": "https://comps.idmod.org/vis/BinnedReport/1.0.0-build.7/#/"
+    },
+    "MalariaInterventions": {
+      "url": "https://comps.idmod.org/vis/MalariaInterventions/1.0.0-build.6/interventions.html"
+    },
+    "MalariaSummaryReport": {
+      "url": "https://comps.idmod.org/vis/MalariaSummaryReport/0.1.0-build.1/#/"
+    },
+    "PropertyReportTB": {
+      "url": "https://comps.idmod.org/vis/AllInsets/1.0.0-build.0/#/"
+    }
   },
   "diseases": {
-    "generic": [ "AllInsets", "BinnedReport" ],
-    "malaria": [ "MalariaInterventions", "MalariaSummaryReport" ],
-    "tb": [ "PropertyReportTB" ]
+    "generic": [
+      "AllInsets",
+      "BinnedReport"
+    ],
+    "malaria": [
+      "MalariaInterventions",
+      "MalariaSummaryReport"
+    ],
+    "tb": [
+      "PropertyReportTB"
+    ]
   }
 }
