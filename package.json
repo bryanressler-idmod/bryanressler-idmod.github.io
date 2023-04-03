@@ -1,6 +1,6 @@
 {
   "name": "bryanressler-idmod.github.io",
-  "version": "1.0.0",
+  "version": "1.0.1-build.0",
   "description": "Github pages for bryanressler-idmod",
   "main": "index.js",
   "scripts": {
